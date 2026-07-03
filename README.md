@@ -2,7 +2,7 @@
 
 # Dados brutos entram, decisões saem 📊
 
-### [Seu Nome] — Data Science & Data Engineering
+### Karen — Data Science & Data Engineering
 
 *Transformando dados crus em pipelines confiáveis e modelos que fazem sentido.*
 
@@ -12,14 +12,21 @@
 
 ## 🧭 Sobre mim
 
-Sou formado em **Data Science**, e venho expandindo meu trabalho para **Data Engineering**, unindo as duas pontas do processo: construir os pipelines que entregam o dado limpo, e depois extrair valor real dele com análise e machine learning.
+Sou formado em **Data Science**, com experiência em transformar dados em modelos e insights que geram decisão real — desde a exploração e limpeza dos dados até a construção e avaliação de modelos de machine learning. Também venho expandindo meu trabalho para **Data Science**, para garantir que os dados que chegam até os meus modelos sejam confiáveis desde a origem.
 
 ```
-🔎 foco atual .......... construindo pipelines de dados e modelos de ML
-🧱 tecnologias base .... Python · SQL · Pandas · scikit-learn
-🚀 explorando .......... Airflow · Spark · dbt · Cloud (AWS/GCP)
-🎯 objetivo ............ dados confiáveis do início ao fim do pipeline
+📊 foco principal ...... análise exploratória, modelagem estatística e ML
+🧠 machine learning ..... classificação, regressão, visão computacional
+🧱 tecnologias base ..... Python · SQL · Pandas · scikit-learn · NumPy
+🔧 data engineering ..... pipelines, ETL, Airflow (em expansão)
+🎯 objetivo ............. transformar dado bruto em decisão com contexto
 ```
+
+**O que eu curto fazer em Data Science:**
+- 🔬 Análise exploratória de dados (EDA) e visualização para contar histórias com números
+- 🤖 Treinar e avaliar modelos de machine learning (classificação, regressão, clustering)
+- 👁️ Visão computacional — já implementei reconhecimento facial e detecção de objetos com OpenCV
+- 📐 Estatística aplicada como base para validar hipóteses antes de qualquer modelo
 
 <br>
 
@@ -37,56 +44,16 @@ Sou formado em **Data Science**, e venho expandindo meu trabalho para **Data Eng
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Data Engineering**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Ferramentas**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
-## 📌 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 [Nome do Projeto 1]**
-
-Breve descrição do que o projeto faz e qual problema resolve.
-
-`Python` `scikit-learn` `Pandas`
-
-[→ ver repositório](#)
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 [Nome do Projeto 2]**
-
-Breve descrição do que o projeto faz e qual problema resolve.
-
-`SQL` `Airflow` `ETL`
-
-[→ ver repositório](#)
-
-</td>
-</tr>
-</table>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 
 <br>
 
 ## 📈 Atividade
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=karenlonghi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenlonghi&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </div>
 
 <br>

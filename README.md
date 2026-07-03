@@ -1,8 +1,6 @@
 *Transformando dados crus em pipelines confiáveis e modelos que fazem sentido.*
 </div>
-
 <br>
-
 ## 🧭 Sobre mim
 
 Sou formado em **Data Science**, com experiência em transformar dados em modelos e insights que geram decisão real, desde a exploração e limpeza dos dados até a construção e avaliação de modelos de machine learning. Também venho expandindo meu trabalho para **Data Engeneer**, para garantir que os dados que chegam até os meus modelos sejam confiáveis desde a origem.

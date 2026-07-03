@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=8B5CF6¢er=true&vCenter=true&width=560&lines=Karen+Longhi;Data+Engineer;SQL+%E2%80%A2+Python+%E2%80%A2+ETL" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Karen+Longhi;Data+Engineer;SQL+%E2%80%A2+Python+%E2%80%A2+ETL" alt="Typing SVG" />
 
-<p align="center">
-  <em>Transformo dados em decisões: pipelines confiáveis, SQL limpo e modelos que escalam.</em>
-</p>
+  <p><em>Transformo dados em decisões: pipelines confiáveis, SQL limpo e modelos que escalam.</em></p>
 
-<p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karenlonghi)
   [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karennsloo@gmail.com)
-</p>
+</div>
+
+<br>
 </div>
 <br>
 

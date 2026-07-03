@@ -2,7 +2,7 @@
 
 # Dados brutos entram, decisões saem 📊
 
-### Karen Longhi — Data Science & Data Engineering
+### Karen Longhi - Data Science & Data Engineering
 
 *Transformando dados crus em pipelines confiáveis e modelos que fazem sentido.*
 
@@ -12,7 +12,7 @@
 
 ## 🧭 Sobre mim
 
-Sou formado em **Data Science**, com experiência em transformar dados em modelos e insights que geram decisão real — desde a exploração e limpeza dos dados até a construção e avaliação de modelos de machine learning. Também venho expandindo meu trabalho para **Data Science**, para garantir que os dados que chegam até os meus modelos sejam confiáveis desde a origem.
+Sou formado em **Data Science**, com experiência em transformar dados em modelos e insights que geram decisão real, desde a exploração e limpeza dos dados até a construção e avaliação de modelos de machine learning. Também venho expandindo meu trabalho para **Data Science**, para garantir que os dados que chegam até os meus modelos sejam confiáveis desde a origem.
 
 ```
 📊 foco principal ...... análise exploratória, modelagem estatística e ML
@@ -25,7 +25,7 @@ Sou formado em **Data Science**, com experiência em transformar dados em modelo
 **O que eu curto fazer em Data Science:**
 - 🔬 Análise exploratória de dados (EDA) e visualização para contar histórias com números
 - 🤖 Treinar e avaliar modelos de machine learning (classificação, regressão, clustering)
-- 👁️ Visão computacional — já implementei reconhecimento facial e detecção de objetos com OpenCV
+- 👁️ Visão computacional: já implementei reconhecimento facial e detecção de objetos com OpenCV
 - 📐 Estatística aplicada como base para validar hipóteses antes de qualquer modelo
 
 <br>

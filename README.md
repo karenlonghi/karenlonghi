@@ -2,7 +2,7 @@
 
 # Dados brutos entram, decisões saem 📊
 
-### Karen — Data Science & Data Engineering
+### Karen Longhi — Data Science & Data Engineering
 
 *Transformando dados crus em pipelines confiáveis e modelos que fazem sentido.*
 

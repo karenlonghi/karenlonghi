@@ -49,20 +49,11 @@ Sou formado em **Data Science**, com experiência em transformar dados em modelo
 
 <br>
 
-## 📈 Atividade
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karenlonghi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenlonghi&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-</div>
-
-<br>
-
 ## 📬 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karenlonghi)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karennsloo@gmail.com)
 
 </div>

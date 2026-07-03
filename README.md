@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=2D3748¢er=true&vCenter=true&width=560&lines=Karen+Longhi;Data+Engineer;SQL+%E2%80%A2+Python+%E2%80%A2+ETL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=8B5CF6¢er=true&vCenter=true&width=560&lines=Karen+Longhi;Data+Engineer;SQL+%E2%80%A2+Python+%E2%80%A2+ETL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Transformando dados crus em pipelines confiáveis e modelos que fazem sentido..</em>
+  <em>Transformo dados em decisões: pipelines confiáveis, SQL limpo e modelos que escalam.</em>
 </p>
 
 <p align="center">
-  <a href="mailto:karennsloo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-karennsloo@gmail.com-2D3748?style=flat&logo=gmail&logoColor=white&labelColor=2D3748" /></a>
-   
-  <a href="https://github.com/karenlonghi"><img alt="GitHub" src="https://img.shields.io/badge/@karenlonghi-181717?style=flat&logo=github&logoColor=white" /></a>
-   
-  <a href="https://www.linkedin.com/in/karenlonghi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-karenlonghi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karenlonghi)
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karennsloo@gmail.com)
 </p>
 </div>
 <br>
@@ -53,14 +50,3 @@ Sou formado em **Data Science**, com experiência em transformar dados em modelo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-<br>
-
-## 📬 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karenlonghi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karennsloo@gmail.com)
-
-</div>

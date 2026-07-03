@@ -12,7 +12,7 @@
 <br>
 
 
-Sou formado em **Data Science**, com experiência em transformar dados em modelos e insights que geram decisão real, desde a exploração e limpeza dos dados até a construção e avaliação de modelos de machine learning. Também venho expandindo meu trabalho para **Data Engineer**, para garantir que os dados que chegam até os meus modelos sejam confiáveis desde a origem.
+Sou formada em **Data Science**, com experiência em transformar dados em modelos e insights que geram decisão real, desde a exploração e limpeza dos dados até a construção e avaliação de modelos de machine learning. Também venho expandindo meu trabalho para **Data Engineer**, para garantir que os dados que chegam até os  modelos sejam confiáveis desde a origem.
 
 ```
 📊 foco principal ...... análise exploratória, modelagem estatística e ML
@@ -22,7 +22,7 @@ Sou formado em **Data Science**, com experiência em transformar dados em modelo
 🎯 objetivo ............. transformar dado bruto em decisão com contexto
 ```
 
-**O que eu curto e faço no dia a dia:**
+**O que eu curto no dia a dia:**
 - ⚙️ **Engenharia de Dados & ETL:** Desenvolvimento de pipelines para extração, transformação e carga de dados, orquestrando fluxos com ferramentas modernas.
 - 💾 **SQL & Modelagem:** Escrita de queries otimizadas, manipulação de grandes volumes de dados, criação de views, CTEs e estruturação de data warehouses.
 - 🔬 **Análise Exploratória & Estatística:** Uso de dados para contar histórias e validar hipóteses antes de qualquer modelagem.

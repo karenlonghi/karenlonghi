@@ -13,20 +13,22 @@ Sou formado em **Data Science**, com experiência em transformar dados em modelo
 🎯 objetivo ............. transformar dado bruto em decisão com contexto
 ```
 
-**O que eu curto fazer em Data Science:**
-- 🔬 Análise exploratória de dados (EDA) e visualização para contar histórias com números
-- 🤖 Treinar e avaliar modelos de machine learning (classificação, regressão, clustering)
-- 👁️ Visão computacional: já implementei reconhecimento facial e detecção de objetos com OpenCV
-- 📐 Estatística aplicada como base para validar hipóteses antes de qualquer modelo
+**O que eu curto e faço no dia a dia:**
+- ⚙️ **Engenharia de Dados & ETL:** Desenvolvimento de pipelines para extração, transformação e carga de dados, orquestrando fluxos com ferramentas modernas.
+- 💾 **SQL & Modelagem:** Escrita de queries otimizadas, manipulação de grandes volumes de dados, criação de views, CTEs e estruturação de data warehouses.
+- 🔬 **Análise Exploratória & Estatística:** Uso de dados para contar histórias e validar hipóteses antes de qualquer modelagem.
+- 🤖 **Machine Learning & Visão Computacional:** Modelos preditivos e projetos práticos com OpenCV (como reconhecimento facial e detecção de objetos).
 
 <br>
 
 ## 🧰 Stack
 
-**Linguagens**
+**Linguagens & Banco de Dados**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data Science / ML**
 
@@ -36,7 +38,6 @@ Sou formado em **Data Science**, com experiência em transformar dados em modelo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 
 <br>
 

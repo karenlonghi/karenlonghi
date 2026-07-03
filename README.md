@@ -1,5 +1,4 @@
 *Transformando dados crus em pipelines confiáveis e modelos que fazem sentido.*
-
 </div>
 
 <br>

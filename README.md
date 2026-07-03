@@ -1,9 +1,3 @@
-<div align="center">
-
-# Dados brutos entram, decisões saem 📊
-
-### Karen Longhi - Data Science & Data Engineering
-
 *Transformando dados crus em pipelines confiáveis e modelos que fazem sentido.*
 
 </div>
